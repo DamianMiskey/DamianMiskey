@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <a href="https://app.daily.dev/Damian_Miskey"><img src="https://api.daily.dev/devcards/9d3a1f775895436c9a9745fe2c4011d2.png?r=5cl" width="400" alt="Damian Miskey's Dev Card"/></a>
 -->
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/DamianMiskey/DamianMiskey/blob/master/devcard.svg" width="400" alt="Damian Miskey's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/DamianMiskey/DamianMiskey/blob/main/devcard.svg" width="400" alt="Damian Miskey's Dev Card"/></a>
